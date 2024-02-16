@@ -1,0 +1,14 @@
+.success-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+  }
+  
+  .success-message {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
